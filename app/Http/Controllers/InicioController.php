@@ -228,7 +228,6 @@ class InicioController extends Controller
             }
         }
 
-        //return view('webPublic/productPurchased');
     }
 
     public function verifyOrder(Request $request)
